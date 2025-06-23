@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Tahir Hassan
 
 ### About Me
-**tahirhassan1211/tahirhassan1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a passionate Machine Learning and Generative AI developer focused on building scalable and impactful solutions using the latest AI technologies. In 2024, I completed MS in Data Science from NED University of Engineering and Technology, along with two research publications in IEEE international conferences. Before that, I had completed a BS in Computer Science from FAST National University of Computer and Emerging Sciences. I had completed a  4-month bootcamp program on Artificial Intelligence organized by Ministry of Information Technology and Telecommunication. I had achieved a Generative AI Developers Certificate from Pak Angels Silicon Valley USA. 
 
 Here are some ideas to get you started:
 
