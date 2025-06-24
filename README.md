@@ -13,7 +13,7 @@
 - Python
 - Machine learning | Deep learning | Generative AI
 - Scikit-learn | Pytorch | Tensorflow
-- Langchain | langgraph | Huggingface | Groq | OpenAi
+- Langchain | Huggingface | Groq | OpenAi
 - llms | Llama | Gemini | Mistral | Whisper
 - Fine tuning | RAG | Vector databases
 - FastAPI | Docker | Gradio | Streamlit 
@@ -31,7 +31,7 @@
 - ### Generative AI Application Developer Certiﬁcate
 Attended a 3-month Generative AI application development program organized by Pak Angels, Silicon Valley, CA, USA. 
 - ### High Impact Skills Bootcamp (Data Science & Artiﬁcial Intelligence)
-Attended a 4-month Data science and Artiﬁcial Intelligence bootcamp organized by the Ministry of Information Technology & Telecommunication. 
+Attended a 4-month Data Science and Artiﬁcial Intelligence bootcamp organized by the Ministry of Information Technology & Telecommunication. 
 
 
 ## Publications
