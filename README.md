@@ -4,10 +4,12 @@
 **I'm a passionate Machine Learning and Generative AI developer focused on building scalable and impactful solutions using the latest AI technologies. In 2024, I completed MS in Data Science from NED University of Engineering and Technology, along with two research publications in IEEE international conferences. Before that, I had completed a BS in Computer Science from FAST National University of Computer and Emerging Sciences.
 
 
-- 🔭 I’m currently working on research projects related to Drought Condition Analysis using SPI and SPEI Index data, Rainfall forecasting on the basis of weather-related variables using machine learning and time series forecasting algorithms.
+- 🔭 I’m currently working on research projects related to Drought Condition Analysis using SPI and SPEI Index data, as well as rainfall forecasting based on weather-related variables using machine learning and time series forecasting algorithms.
 - 🌱 I’m currently learning and working on the Latest frameworks and large language models for creating Generative and Agentic AI Applications. 
 
-
+## Projects
+- ### Text Sentiment Analyzer Application.
+  This application can be used to analyze the sentiment of given text. In this project, I have applied a distilbert-based pretrained model by using it from the Huggingface Transformers library. The frontend of the app is created using Gradio. Deployed application link: https://huggingface.co/spaces/tahirhassan9119/Text-Sentiment-Analyzer
 
 ## Skills
 - Python
