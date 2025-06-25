@@ -38,9 +38,9 @@ Attended a 4-month Data Science and Artiﬁcial Intelligence bootcamp organized 
 
 ## Publications
 - ### Carbon Dioxide Emission Forecasting using Machine Learning and Time Series Statistical Models.
-Presented at IEEE's 25th International Arab Conference on Information Technology (ACIT). link: https://ieeexplore.ieee.org/document/10876943
+Presented at IEEE's 25th International Arab Conference on Information Technology (ACIT). Published paper link: https://ieeexplore.ieee.org/document/10876943
 - ### Urban Pluvial Flood Prediction Using Machine Learning Models.
-Presented at IEEE's 4th International Conference on Innovations in Computer Science (ICONICS). link: https://ieeexplore.ieee.org/document/10824627
+Presented at IEEE's 4th International Conference on Innovations in Computer Science (ICONICS). Published paper link: https://ieeexplore.ieee.org/document/10824627
 
   
 ## Contact Me
