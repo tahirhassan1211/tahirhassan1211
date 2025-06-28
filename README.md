@@ -8,6 +8,9 @@
 - 🌱 I’m currently learning and working on the Latest frameworks and large language models for creating Generative and Agentic AI Applications. 
 
 ## Projects
+- ### RAG-Based Student Assistant for Textbook Application
+  This app can be used for getting assistance related to textbook chapters. It helps students in extracting chapter-wise relevant information insights, generating chapter summary and generating relevant descriptive, MCQ based, true& false and Fill in the Blanks questions.
+  Deployed application link: https://student-assistance-chatbot.streamlit.app/
 - ### Text Sentiment Analyzer Application.
   This application can be used to analyze the sentiment of given text. In this project, I have applied a distilbert-based pretrained model by using it from the Huggingface Transformers library. The frontend of the app is created using Gradio. Deployed application link: https://huggingface.co/spaces/tahirhassan9119/Text-Sentiment-Analyzer
 
