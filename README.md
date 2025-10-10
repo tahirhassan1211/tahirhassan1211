@@ -17,6 +17,9 @@
 - ### Audio Summarization Application
   This Application can be used for audio transcription and summarization. In this project, I have used openai whisper model for audio transcription, huggingface pretrained summarization model "sshleifer/distilbart-cnn-12-6" for summarization and gradio for frontend of application.
   Deployed application link: https://huggingface.co/spaces/tahirhassan9119/Audio-Summarizer
+- ### Voice to "Voice and Text" Chatbot Application
+  In this Application user can ask any query from chatbot application, either by uploading audio or by recording voice on runtime. In this project i have used openai whisper model for audio transcription, then llama model "llama-3.1-8b-instant" for text generation using groq api, then used gtts model for converting output text to audio form.
+  Deployed application link: https://huggingface.co/spaces/tahirhassan9119/voice-chat-application
 
 ## Skills
 - Python
