@@ -8,6 +8,21 @@
 - 🌱 I’m currently learning and working on the Latest frameworks and large language models for creating Generative and Agentic AI Applications. 
 
 ## Projects
+- ### Dermalyze AI
+  Dermatological health issues are incredibly common, yet access to immediate, accurate, and professional clinical evaluation remains highly unequal.
+  Dermalyze AI is powered by the @google/genai TypeScript SDK, designed for 
+interacting with Gemini Models.
+
+* Model Utilized: Gemini 1.5 Flash / Gemini 2.5 Flash
+  - Serves as the primary multimodal engine.
+  - Multi-Sensor Inputs: Accepts high-resolution skin lesions photographs, patient 
+    transcribed queries, or typed symptom diaries.
+  - Generative Responses: Delivers structured text outputs outlining descriptive 
+    diagnosis, preventative guides, risk levels, and immediate advice.
+  - Privacy-First Design: Kept server-side (or securely encapsulated in the diagnostic 
+    loop) to prevent exposure of endpoint tokens or patient credentials.
+Deployed Application link: https://dermalyze-ai-623795964840.asia-southeast1.run.app
+    
 - ### RAG-Based Student Assistant for Textbook Application
   This app can be used for getting assistance related to textbook chapters. It helps students in extracting chapter-wise relevant information insights, generating chapter summary and generating relevant descriptive, MCQ based, true& false and Fill in the Blanks questions.
   Deployed application link: https://student-assistance-chatbot-8tyghpv5v58j7ulv7t84zy.streamlit.app/
