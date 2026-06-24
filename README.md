@@ -36,6 +36,9 @@ Deployed Application link: https://dermalyze-ai-623795964840.asia-southeast1.run
   In this Application user can ask any query from chatbot application, either by uploading audio or by recording voice on runtime. In this project i have used openai whisper model for audio transcription, then llama model "llama-3.1-8b-instant" for text generation using groq api, then used gtts model for converting output text to audio form.
   Deployed application link: https://huggingface.co/spaces/tahirhassan9119/voice-chat-application
 
+## 💻 Tech Stack:
+HTML5 Python CSS3 Flask NumPy Matplotlib Pandas Plotly PyTorch scikit-learn TensorFlow Scipy
+
 ## Skills
 - Python
 - Machine learning | Deep learning | Generative AI
