@@ -37,7 +37,7 @@ Deployed Application link: https://dermalyze-ai-623795964840.asia-southeast1.run
   Deployed application link: https://huggingface.co/spaces/tahirhassan9119/voice-chat-application
 
 ## 💻 Tech Stack:
-https://camo.githubusercontent.com/43de341c9b8b09764cc735349316e938d77a1da3751ae8bfaec066e3c3450bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,react,js,html,css,wasm)](https://skillicons.dev)
 
 ## Skills
 - Python
